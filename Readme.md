@@ -3,8 +3,8 @@
 This is a simple Database Management System for managing Records. It is built with React.js and Tailwind. The backend is built with Express.js and Mongoose.
 
 ## Deployed Application
-- [Client]
-- [Server]
+- [Client](https://db-manager-bice.vercel.app/)
+- [Server](https://db-manager-be.vercel.app/)
 
 ## Prerequisites
 - Node.js and npm installed
